@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntentServiceMyApp</string>
+    <string name="loading_text">"Please wait. Loading&#8230;"</string>
+    <string name="name">"Name"</string>
+    <string name="price">1000</string>
+    <string name="category">Veg</string>
+    <string name="no_internet">"No internet connection. Please check connectivity and try again."</string>
+    <string name="rupee_symbol">"&#8377;"</string>
+</resources>

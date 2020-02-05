@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical">
+
+    <com.example.customview.PieChart
+        android:id="@+id/rectangle"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:id="@+id/one"
+            android:onClick="onClick"
+            style="?android:attr/buttonBarStyle"
+            android:background="?attr/selectableItemBackground"
+            android:text="@string/up_btn"/>
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:id="@+id/two"
+            android:onClick="onClick"
+            style="?android:attr/buttonBarStyle"
+            android:background="?attr/selectableItemBackground"
+            android:text="@string/swap_btn"/>
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:id="@+id/three"
+            android:onClick="onClick"
+            style="?android:attr/buttonBarStyle"
+            android:background="?attr/selectableItemBackground"
+            android:text="@string/down_btn"/>
+
+    </LinearLayout>
+
+</LinearLayout>

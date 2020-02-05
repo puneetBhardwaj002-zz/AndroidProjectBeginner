@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MiniZ</string>
+    <string name="veg_title">VEG</string>
+    <string name="non_veg_title">NON-VEG</string>
+    <string name="loading_text">Please wait. Loading&#8230;</string>
+    <string name="rupee">&#8377;</string>
+    <string name="no_internet_text">No internet connection. Please connect to data/Wi-Fi and then try again.</string>
+    <string name="query_string">https://demo9063766.mockable.io/</string>
+    <string name="name_text">NAME</string>
+    <string name="price_text">&#8377;1000</string>
+</resources>

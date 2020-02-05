@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ApplicationToFragment</string>
+    <string name="veg">VEG</string>
+    <string name="non_veg">NON-VEG</string>
+    <string name="name">NAME</string>
+    <string name="rupee_symbol">&#8377;</string>
+    <string name="price">&#8377;1000</string>
+    <string name="loading_text">Please wait. Loading&#8230;</string>
+    <string name="no_internet">No internet connection. Please check network connection and try again</string>
+</resources>
