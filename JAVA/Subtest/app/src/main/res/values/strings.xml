@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Subtest</string>
-    <string name="subscription_payment">Next Bill of</string>
-    <string name="id">ID: %s</string>
-    <string name="rupees">₹ </string>
-    <string name="subscription_date">Due on</string>
-</resources>
