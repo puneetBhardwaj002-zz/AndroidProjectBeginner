@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name">song_name</string>
+    <string name="duration">song_played_duration</string>
+    <string name="prev">PREV</string>
+    <string name="next">NEXT</string>
+    <string name="pause_play">PLAY</string>
+    <string name="song_name">Song Name</string>
+    <string name="song_image">Song Image</string>
+    <string name="song_artist">Song Artist</string>
+    <string name="duration_placeholder">1:23</string>
+    <string name="initial_duration">0:00</string>
+    <string name="song_play_state">song_play_state</string>
+    <string name="songs">Songs</string>
+    <string name="song_index">song_index</string>
+    <string name="song_duration">song_duration</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="repeat">Repeat</string>
+</resources>
